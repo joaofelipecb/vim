@@ -1,4 +1,5 @@
 emmet-vim
 fugitive
 vim-airline
+nerdtree
 
